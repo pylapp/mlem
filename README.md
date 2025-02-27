@@ -1,3 +1,19 @@
+Disclaimer
+==========
+
+> [!CAUTION]
+> ( ˶°ㅁ°) !! **This is a fork of [mlemgroup/mlem)](https://github.com/mlemgroup/mlem)**
+>
+> The aim of this project is to submit evolutions.
+> This is not the official repository of the app.
+> You should not submit bug reports, issues or pull requests to this fork.
+>
+> Last constributions from here:
+>
+> - Fix localization issues, toast instanciation for URL copy error ([#2034](https://github.com/mlemgroup/mlem/issues/2034), [#2035](https://github.com/mlemgroup/mlem/pull/2035))
+> - Fix localized elapsed time on profile ([#2032](https://github.com/mlemgroup/mlem/issues/2032), [#2033](https://github.com/mlemgroup/mlem/pull/2033))
+> - French localization ([#1803](https://github.com/mlemgroup/mlem/pull/1803), [#1954](https://github.com/mlemgroup/mlem/pull/1954))
+
 # [Mlem](https://mlem.group) - A Beautiful iOS Client for Lemmy
 
 Mlem is a beautiful, intuitive, open source iOS client for [Lemmy](https://join-lemmy.org) that lets you effortlessly participate in conversations across all Lemmy servers.
